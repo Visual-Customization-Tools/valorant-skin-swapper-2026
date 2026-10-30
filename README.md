@@ -42,22 +42,15 @@ You've spent hours looking at skins in the store, but you can't justify spending
 
 ## 🎯 What You Get
 
-<table style="width:100%; border-collapse: collapse; text-align: center;">
-  <tr>
-    <td style="padding: 20px; background-color: #0f1923; border: 2px solid #00aaff; border-radius: 12px; width: 33%;">
-      <h2 style="color: #00aaff; margin-top: 0;">🔥 Exclusive Skins</h2>
-      <p style="color: #ffffff; margin-bottom: 0;">Battle Pass<br>Limited Editions<br><b style="color: #00aaff;">600+ Skins</b></p>
-    </td>
-    <td style="padding: 20px; background-color: #0f1923; border: 2px solid #00aaff; border-radius: 12px; width: 33%;">
-      <h2 style="color: #00aaff; margin-top: 0;">💰 Save $300+</h2>
-      <p style="color: #ffffff; margin-bottom: 0;">No Microtransactions<br>Undetectable<br><b style="color: #00aaff;">Updated for 2026</b></p>
-    </td>
-    <td style="padding: 20px; background-color: #0f1923; border: 2px solid #00aaff; border-radius: 12px; width: 33%;">
-      <h2 style="color: #00aaff; margin-top: 0;">🔄 Unlock Everything</h2>
-      <p style="color: #ffffff; margin-bottom: 0;">All Skins Included<br>Preview Tool<br><b style="color: #00aaff;">Free & Unlimited</b></p>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://img.shields.io/badge/🔥_EXCLUSIVE_SKINS-Battle_Pass_|_600+_Skins-0f1923?style=for-the-badge&labelColor=00aaff" alt="Exclusive Skins" height="60">
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/💰_SAVE_$300+-No_Microtransactions_|_Undetectable-0f1923?style=for-the-badge&labelColor=00aaff" alt="Save Money" height="60">
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/🔄_UNLOCK_EVERYTHING-All_Skins_|_Free_&_Unlimited-0f1923?style=for-the-badge&labelColor=00aaff" alt="Unlock Everything" height="60">
+</p>
 
 ---
 
