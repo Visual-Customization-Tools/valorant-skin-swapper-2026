@@ -12,7 +12,7 @@
 </p>
 
 <p align="center">
-  <img src="https://i.postimg.cc/HnwrQ6Y3/UCH6lph-Ar-OYda-DVPdpe-IKa-A-toolbar-menu-thumbnail-07ba1031-1e6c-42b4-a344-7a69bff75ba9.png" alt="Valorant Skin Swapper Banner" width="800">
+  <img src="https://i.postimg.cc/1z4hw4mw/UCH6lph-Ar-OYda-DVPdpe-IKa-A-toolbar-menu-thumbnail-07ba1031-1e6c-42b4-a344-7a69bff75ba9-(1).png" alt="Valorant Skin Swapper Banner" width="800">
 </p>
 
 ---
