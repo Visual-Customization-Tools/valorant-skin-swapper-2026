@@ -1,0 +1,8 @@
+{
+  "name": "mock-repo",
+  "version": "1.0.0",
+  "description": "Test fixture for architecture visualization",
+  "main": "bin/bootstrap.js",
+  "scripts": { "start": "node bin/bootstrap.js" },
+  "license": "MIT"
+}
