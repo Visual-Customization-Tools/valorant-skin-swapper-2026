@@ -68,12 +68,12 @@ You've spent hours looking at skins in the store, but you can't justify spending
 
 | Feature | Buying Skins | Skin Swapper 2026 |
 | :--- | :--- | :--- |
-| **Cost** | $20-50 per skin | ✅ **FREE** |
-| **Number of Skins** | Limited to what you buy | ✅ **All skins available** |
-| **Exclusive Skins** | Impossible to get | ✅ **Included** |
-| **Battle Pass Skins** | Need to buy battle pass | ✅ **Included** |
-| **Time Investment** | Wait for store rotation | ✅ **Instant access** |
-| **Total Cost** | $100-500+ | ✅ **$0** |
+| **Cost** | $20-50 per skin | 🟩 **FREE** |
+| **Skins Available** | Limited | 🟩 **All skins** |
+| **Exclusive Skins** | ❌ Impossible | 🟩 **Included** |
+| **Battle Pass** | ❌ Need to buy | 🟩 **Included** |
+| **Time Investment** | ❌ Wait for store | 🟩 **Instant access** |
+| **Total Cost** | $100-500+ | 🟩 **$0** |
 
 > 📈 **Data:** Players save an average of $300-500 with this tool while accessing every skin in the game.
 
